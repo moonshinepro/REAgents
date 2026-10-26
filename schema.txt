@@ -1,0 +1,21 @@
+
+
+[ Data / RAG Layer ] (G**T & T*** Reports + Listings)
+          │
+  ┌───────┴────────────────────────┐
+  ▼                                ▼
+[Macro & Sector Analyst]   [Micro / Location Analyst]   [Financial Yield Analyst]
+  └───────┬────────────────────────┘
+          │ (Analyst Dossiers)
+          ▼
+   [ Research Team Debate ]
+     Bull Agent ◄──Dialectical Debate──► Bear Agent
+          │
+          ▼
+   [ Acquisition Agent / Trader ] (Formulates Offer / Target Price)
+          │
+          ▼
+   [ Risk & Liquidity Manager ] (Evaluates Downside & Regulatory Risk)
+          │
+          ▼
+   [ Final Investment Memo & Action Plan ]
